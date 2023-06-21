@@ -20,10 +20,7 @@ https://toussaintg1.github.io/password-generator/
 
 ## Usage
 
-<img width="1728" alt="image" src="<img width="1728" alt="image" src="https://github.com/ToussaintG1/Portfolio/assets/133610903/7735116f-38a1-47a1-b534-5b2d3c3c86e1">
-">
-
-
+<img width="1727" alt="image" src="https://github.com/ToussaintG1/password-generator/assets/133610903/37b4be60-e859-42fb-bbee-2d990a06e983">
 
 ## Credits
 
